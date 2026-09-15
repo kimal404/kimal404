@@ -15,7 +15,7 @@ Currently working on kernel tuning, system daemons, and hardware control apps.
 
 **Stack**
 
-Python · Shell · C++ · Kotlin · Flutter · Rust
+Shell · C++ · Kotlin · Rust
 
 ---
 
